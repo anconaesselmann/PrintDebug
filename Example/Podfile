@@ -1,0 +1,6 @@
+use_frameworks!
+target 'PrintDebug_Tests' do
+  pod 'PrintDebug', :path => '../'
+  
+  
+end
