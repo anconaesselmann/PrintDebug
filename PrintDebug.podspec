@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary          = 'A short description of PrintDebug.'
   s.swift_version    = '5.0'
   s.description      = <<-DESC
-A short description of PrintDebug.
+A short description of PrintDebug
                        DESC
 
   s.homepage         = 'https://github.com/anconaesselmann/PrintDebug'
