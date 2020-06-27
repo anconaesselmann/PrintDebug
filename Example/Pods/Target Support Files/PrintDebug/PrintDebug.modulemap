@@ -1,0 +1,6 @@
+framework module PrintDebug {
+  umbrella header "PrintDebug-umbrella.h"
+
+  export *
+  module * { export * }
+}

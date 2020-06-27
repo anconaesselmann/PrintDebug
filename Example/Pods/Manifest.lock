@@ -1,0 +1,16 @@
+PODS:
+  - PrintDebug (0.1.0)
+
+DEPENDENCIES:
+  - PrintDebug (from `../`)
+
+EXTERNAL SOURCES:
+  PrintDebug:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PrintDebug: 11283fe232703da297c127dc282698c5ca3d0a45
+
+PODFILE CHECKSUM: ed0c77c64183b7672569b7bccfacba891076dcce
+
+COCOAPODS: 1.9.3
