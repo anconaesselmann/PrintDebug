@@ -1,10 +1,10 @@
 Pod::Spec.new do |s|
   s.name             = 'PrintDebug'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of PrintDebug.'
+  s.summary          = 'Library for logging debug statements'
   s.swift_version    = '5.0'
   s.description      = <<-DESC
-A short description of PrintDebug
+Library for logging debug statements.
                        DESC
 
   s.homepage         = 'https://github.com/anconaesselmann/PrintDebug'
